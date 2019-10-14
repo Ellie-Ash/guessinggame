@@ -1,0 +1,11 @@
+/Users/ellieash/workspace/guessinggame/bin/Debug/netcoreapp3.0/guessinggame
+/Users/ellieash/workspace/guessinggame/bin/Debug/netcoreapp3.0/guessinggame.deps.json
+/Users/ellieash/workspace/guessinggame/bin/Debug/netcoreapp3.0/guessinggame.runtimeconfig.json
+/Users/ellieash/workspace/guessinggame/bin/Debug/netcoreapp3.0/guessinggame.runtimeconfig.dev.json
+/Users/ellieash/workspace/guessinggame/bin/Debug/netcoreapp3.0/guessinggame.dll
+/Users/ellieash/workspace/guessinggame/bin/Debug/netcoreapp3.0/guessinggame.pdb
+/Users/ellieash/workspace/guessinggame/obj/Debug/netcoreapp3.0/guessinggame.csprojAssemblyReference.cache
+/Users/ellieash/workspace/guessinggame/obj/Debug/netcoreapp3.0/guessinggame.AssemblyInfoInputs.cache
+/Users/ellieash/workspace/guessinggame/obj/Debug/netcoreapp3.0/guessinggame.AssemblyInfo.cs
+/Users/ellieash/workspace/guessinggame/obj/Debug/netcoreapp3.0/guessinggame.dll
+/Users/ellieash/workspace/guessinggame/obj/Debug/netcoreapp3.0/guessinggame.pdb
